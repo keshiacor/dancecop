@@ -237,7 +237,7 @@ Planned providers: `DanceCop::ClaudeProvider`, `DanceCop::OpenAIProvider`.
 ## Development
 
 ```bash
-git clone https://github.com/keshia/dancecop
+git clone https://github.com/keshiacor/dancecop
 cd dancecop
 bundle install
 
@@ -263,7 +263,7 @@ MIT. See [LICENSE](LICENSE).
 
 ## About
 
-Built by [Keshia](https://github.com/keshia) as a RubyConf scholar project.
+Built by [Keshia](https://github.com/keshiacor) as a RubyConf scholar project.
 
 *"Salsa is for the person you're dancing with. Ruby is for the person reading
 your code. Both ask you to let go of ego, trust the conventions, and make the

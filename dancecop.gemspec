@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
     structured coaching feedback — demonstrating how Ruby's philosophy
     of conventions, feedback, and continuous improvement applies beyond code.
   DESC
-  spec.homepage = "https://github.com/keshia/dancecop"
+  spec.homepage = "https://github.com/keshiacor/dancecop"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.2.0"
 
