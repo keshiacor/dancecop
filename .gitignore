@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Bundler
+/.bundle
+/vendor/bundle
+
+# Gem build artifacts
+*.gem
+/pkg/
+
+# RSpec
+.rspec_status
+
+# SimpleCov
+/coverage/
+
+# IRB / Byebug history
+.byebug_history
+.irbrc
